@@ -11,3 +11,15 @@ Materiales:
             Github:     https://github.com/crios2020/2025CFP35ObjetosMa
             CodeShare:  https://codeshare.io/crios2020
             Grupo WSP:  https://chat.whatsapp.com/InKzpLvwYJ1H3xzeFCRova
+
+Software:   
+            git:        https://git-scm.com/
+            JDK LTS:    (Java Development Kit) (Kit de Desarrollo Java)
+                    LTS: Long Term Support  (4 años)
+                    https://www.oracle.com/ar/java/technologies/downloads/#java21
+
+            IDE:        Integrated Development Enviroment (Entorno de Desarrollo Integrado)
+                        VSCode: https://code.visualstudio.com/ 
+            Extensiones VSCode:
+                                Extension Pack for Java Microsoft
+                                Todo Tree Gruntfuggly
