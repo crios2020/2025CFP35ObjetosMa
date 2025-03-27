@@ -7,6 +7,11 @@ Horario:    09:30 a 13:30 hs
 Profe:  Carlos Rios         c.rios@bue.edu.ar
 
 Materiales:     
+            Videos tutoriales:
+            https://www.youtube.com/watch?v=UXAltfkVCIw&list=PLMLmotKSEKYfobV2_eyZxVxc88E-27k7t
+            https://www.youtube.com/watch?v=8mTxlxv000M&list=PLMLmotKSEKYfGoMeuEbVVT6ZYlxuk-zsF
+            https://www.youtube.com/watch?v=vu5xUoZce08&list=PLMLmotKSEKYd5KoIeNWAFqWgBSxRYjlhA
+            
             Meet:       https://meet.google.com/apo-fedn-cwv?pli=1
             Github:     https://github.com/crios2020/2025CFP35ObjetosMa
             CodeShare:  https://codeshare.io/crios2020
